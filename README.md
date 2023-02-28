@@ -28,4 +28,4 @@ then at source control, at the top, press on the small button (create pull reque
 
 Finally, press on the pull request tab, to merge committment. 2 ways to merge it
 
-![alt text](https://github.com/SHINE-six/How-to-use-VScode-for-GitHub/blob/main/Screenshot 2023-02-28 180143.jpg?raw=true)
+![alt text](https://github.com/SHINE-six/How-to-use-VScode-for-GitHub/blob/main/Screenshot_2023-02-28_180143.png?raw=true)
