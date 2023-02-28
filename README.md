@@ -21,6 +21,7 @@ After editing the file, go to source control again to commit & push the changes 
 ![alt text](https://github.com/SHINE-six/How-to-use-VScode-for-GitHub/blob/main/Screenshot_20230228_060025.png?raw=true)
 
 then at source control, at the top, press on the small button (create pull request)
+
 ![alt text](https://github.com/SHINE-six/How-to-use-VScode-for-GitHub/blob/main/Screenshot_20230228_060039.png?raw=true)
 
 ![alt text](https://github.com/SHINE-six/How-to-use-VScode-for-GitHub/blob/main/Screenshot_20230228_060102.png?raw=true)
